@@ -1,0 +1,13 @@
+set guioptions+=mTb
+set wildoptions=auto
+set complete=sl
+
+" scroll
+nnoremap j 5j
+nnoremap k 5k
+
+set wildoptions=auto
+
+'' Mac only 
+'set editor='mvim -f' 
+
