@@ -1,0 +1,4 @@
+# Custom key mappings
+## Insert your preferred key mappings here.
+map <c-f> scrollFullPageDown
+map <c-b> scrollFullPageUp
