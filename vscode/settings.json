@@ -1,0 +1,20 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Ricty Discord, Menlo, Monaco, 'Courier New', monospace",
+    "files.autoSave": "afterDelay",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 200,
+    "workbench.colorTheme": "Darcula",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.detectIndentation": false,
+    "workbench.iconTheme": "vscode-icons",
+    "jetbrainsKeymap.promptV3Features": false
+}
