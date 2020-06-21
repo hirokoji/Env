@@ -16,5 +16,7 @@
     "editor.scrollbar.vertical": "hidden",
     "editor.detectIndentation": false,
     "workbench.iconTheme": "vscode-icons",
-    "jetbrainsKeymap.promptV3Features": false
+    "jetbrainsKeymap.promptV3Features": false,
+    "vim.easymotion": true,
+    "vim.leader": "<space>"
 }
